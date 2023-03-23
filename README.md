@@ -4,7 +4,7 @@
 
 This website is made for a marketing agency. It contains notes on HTML and CSS. It also contains semantic HTML elements that allows it to be more accessible and for search engine optimization. It also includes alt attributes and follows a logical structure independent of styling and positioning. 
 Here is the link to the website: https://jssoyoung.github.io/Marketing-Agency-Website/
-Here is an image of the website: ![My Image](my-image.jpg)
+Here is an image of the website: ![Marketing Agency Website](assets/images/Marketing-Agency-Website.png)
 
 ## Installation
 
