@@ -12,8 +12,6 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-Here is an image of the website. (assets/images/01-html-css-git-homework-demo.png)
 The website is divided into many sections. The header contains the name of the marketing agency, along with a navigation bar at the top. The main part of the body contains information about "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing". It also contains an aside and footer. The different sections are marked with semantic HTML elements and alt attributes for all images used.
 
 ## Credits
